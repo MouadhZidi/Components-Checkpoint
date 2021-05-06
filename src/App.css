@@ -2,10 +2,15 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+.pic{
+
+  border-radius: 50%;
+  width: 300px;
+  
+
 }
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
